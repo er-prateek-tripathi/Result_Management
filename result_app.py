@@ -1,4 +1,3 @@
-# main.py - Interface for Student Result Management System
 from tkinter import *
 from tkinter import filedialog
 from tkinter.ttk import Progressbar
